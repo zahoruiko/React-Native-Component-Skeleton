@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Example of creating a skeleton for a component in a React Native App
+# An example of creating a skeleton for a component in a React Native App
 
 # Getting Started
 
